@@ -1,0 +1,28 @@
+Microsoft Cybersecurity Architect (MS-SC-100T00)
+
+
+Pilares sobre los que se basa Azure:
+https://learn.microsoft.com/en-us/azure/well-architected/
+
+Pasos para adoptar un marco de Ciberseguridad:
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
+
+CAF: Secure Methodology in the govern phase:
+Postura de seguridad de los activos
+Preparación y respuesta ante incidentes, mediante marcos de seguimiento 
+CIA - Confidencialidad, Integridad y Disponibildiad - Políticas de control encriptación de datos,, Governanza, automatización en la integración del sistemas (Azure Arc),, Estandarización de aplicaciones protección de accesos.
+
+Cloud Adoption Security Review (CASR):
+Alineamiento con el negocio / Disciplina enSeguridad 
+Seguridad: Gestión de riesgos , Seguridad de confianza cero
+
+Azure landing zones / Zona de Aterrizaje 
+Adopción de Ciberseguridad sin nesecidad de tener un equipo especialido en Ciberseguridad.
+Área de diseño de entorno / Área de diseño de cumplimiento
+
+
+
+
+
+
+
